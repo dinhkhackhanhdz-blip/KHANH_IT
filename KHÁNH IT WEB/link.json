@@ -66,9 +66,9 @@
     },
     {
       "order": 9,
-      "title": "DRIVER PACK",
-      "desc": "Driver máy tính",
-      "link": "https://example.com/9.exe",
+      "title": "ABBYY FINEREADER 15",
+      "desc": "Trình chuyển PDF to Word",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/ABBYY.FINEREADER.15.rar",
       "color": "#0ea5e9",
       "btn": "#0ea5e9"
     },
