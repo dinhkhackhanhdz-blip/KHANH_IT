@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>KHANH IT TECH CENTER ULTIMATE</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial;
+    color:#fff;
+    background-size:cover;
+    background-position:center;
+    background-attachment:fixed;
+}
+
+.overlay{
+    position:fixed;
+    inset:0;
+    background:rgba(0,0,0,0.72);
+    z-index:-1;
+}
+
+/* TOP */
+.topbar{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    padding:14px 20px;
+    background:rgba(255,255,255,0.05);
+    backdrop-filter:blur(12px);
+    border-bottom:1px solid rgba(56,189,248,0.25);
+}
+
+.logo{
+    display:flex;
+    align-items:center;
+    gap:10px;
+    color:#38bdf8;
+    font-weight:bold;
+}
+
+.logo img{
+    width:28px;
+    height:28px;
+    border-radius:6px;
+}
+
+/* HERO */
+.hero{
+    text-align:center;
+    padding:30px 20px 10px;
+}
+
+.hero h1{
+    color:#38bdf8;
+    text-shadow:0 0 12px rgba(56,189,248,0.6);
+}
+
+/* GRID */
+.grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+    gap:15px;
+    padding:20px;
+    max-width:1100px;
+    margin:auto;
+}
+
+.card{
+    background:rgba(255,255,255,0.05);
+    border:1px solid rgba(56,189,248,0.2);
+    border-radius:16px;
+    padding:15px;
+    backdrop-filter:blur(10px);
+    transition:0.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 0 18px rgba(56,189,248,0.25);
+}
+
+.card h3{
+    color:#38bdf8;
+    font-size:14px;
+}
+
+button{
+    width:100%;
+    padding:10px;
+    border:none;
+    border-radius:10px;
+    background:linear-gradient(90deg,#38bdf8,#0ea5e9);
+    font-weight:bold;
+    cursor:pointer;
+}
+
+/* CONTACT */
+.contact{
+    max-width:1100px;
+    margin:20px auto;
+    padding:15px;
+    background:rgba(255,255,255,0.05);
+    border:1px solid rgba(56,189,248,0.2);
+    border-radius:15px;
+    text-align:center;
+}
+
+.contact a{
+    display:inline-flex;
+    margin:6px;
+    padding:10px 14px;
+    border-radius:10px;
+    text-decoration:none;
+    color:white;
+    background:rgba(255,255,255,0.06);
+}
+
+/* CHAT */
+.chat-float{
+    position:fixed;
+    bottom:20px;
+    right:20px;
+    width:55px;
+    height:55px;
+    border-radius:50%;
+    background:linear-gradient(90deg,#38bdf8,#0ea5e9);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+    font-size:20px;
+}
+
+.chat-box{
+    position:fixed;
+    bottom:90px;
+    right:20px;
+    width:250px;
+    background:rgba(0,0,0,0.85);
+    border:1px solid rgba(56,189,248,0.3);
+    border-radius:15px;
+    display:none;
+}
+
+.chat-header{
+    padding:10px;
+    background:rgba(56,189,248,0.2);
+    display:flex;
+    justify-content:space-between;
+    color:#38bdf8;
+}
+
+.chat-body{
+    padding:10px;
+}
+
+/* MUSIC */
+.music-btn{
+    position:fixed;
+    bottom:160px;
+    right:20px;
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    background:linear-gradient(90deg,#38bdf8,#0ea5e9);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    cursor:pointer;
+}
+</style>
+</head>
+
+<body>
+
+<div class="overlay"></div>
+
+<!-- MUSIC -->
+<audio id="music" loop>
+    <source src="https://raw.githubusercontent.com/user/repo/main/music.mp3">
+</audio>
+
+<div class="music-btn" onclick="toggleMusic()">🎵</div>
+
+<!-- TOP -->
+<div class="topbar">
+    <div class="logo">
+        <img id="icon">
+        KHANH IT TECH
+    </div>
+    <div>ANDROID • ADB • XIAOMI</div>
+</div>
+
+<!-- HERO -->
+<div class="hero">
+    <h1>TECH CENTER ULTIMATE</h1>
+    <p>All-in-one Android Tool System</p>
+</div>
+
+<!-- GRID 12 -->
+<div class="grid">
+
+<div class="card"><h3>Tool KHANH IT V2</h3><p>ADB Tool chính</p><button onclick="dl('link1.exe')">Tải</button></div>
+
+<div class="card"><h3>Tool V2</h3><button onclick="dl('link1.exe')">Tải</button></div>
+<div class="card"><h3>ADB Toolkit</h3><button onclick="dl('link2.apk')">Tải</button></div>
+<div class="card"><h3>Xiaomi Fix</h3><button onclick="dl('link3.zip')">Tải</button></div>
+<div class="card"><h3>TV Launcher</h3><button onclick="dl('link4.exe')">Tải</button></div>
+
+<div class="card"><h3>System Unlock</h3><button onclick="dl('link5.exe')">Tải</button></div>
+<div class="card"><h3>MIUI Debloat</h3><button onclick="dl('link6.apk')">Tải</button></div>
+<div class="card"><h3>ADB Script</h3><button onclick="dl('link7.bat')">Tải</button></div>
+<div class="card"><h3>TV Fix</h3><button onclick="dl('link8.apk')">Tải</button></div>
+
+<div class="card"><h3>Boot Anim</h3><button onclick="dl('link9.zip')">Tải</button></div>
+<div class="card"><h3>Ultimate Pack</h3><button onclick="dl('link10.exe')">Tải</button></div>
+<div class="card"><h3>Boost Perf</h3><button onclick="dl('link11.apk')">Tải</button></div>
+<div class="card"><h3>Final Kit</h3><button onclick="dl('link12.exe')">Tải</button></div>
+
+</div>
+
+<!-- CONTACT -->
+<div class="contact">
+<h3>📡 LIÊN HỆ</h3>
+
+<a href="https://facebook.com">📘 FB</a>
+<a href="https://zalo.me">💬 Zalo</a>
+<a href="https://youtube.com">▶️ YouTube</a>
+<a href="https://tiktok.com">🎵 TikTok</a>
+<a href="tel:0900000000">📞 Call</a>
+
+</div>
+
+<!-- CHAT -->
+<div class="chat-float" onclick="toggleChat()">💬</div>
+
+<div class="chat-box" id="chatBox">
+<div class="chat-header">
+SUPPORT
+<span onclick="toggleChat()">✖</span>
+</div>
+<div class="chat-body">
+<a href="#">Facebook</a>
+<a href="#">Zalo</a>
+<a href="#">YouTube</a>
+</div>
+</div>
+
+<footer style="text-align:center;opacity:0.5;padding:20px;">
+KHANH IT © 2026
+</footer>
+
+<script>
+
+/* BACKGROUND + ICON */
+document.body.style.backgroundImage="url('https://raw.githubusercontent.com/user/repo/main/bg.jpg')";
+document.getElementById("icon").src="https://raw.githubusercontent.com/user/repo/main/icon.png";
+
+/* DOWNLOAD */
+function dl(url){
+    const a=document.createElement("a");
+    a.href=url;
+    a.download="";
+    a.click();
+}
+
+/* CHAT */
+function toggleChat(){
+    const c=document.getElementById("chatBox");
+    c.style.display=c.style.display==="block"?"none":"block";
+}
+
+/* MUSIC */
+let play=false;
+function toggleMusic(){
+    const m=document.getElementById("music");
+    if(!play){m.play();play=true;}
+    else{m.pause();play=false;}
+}
+
+</script>
+
+</body>
+</html>
