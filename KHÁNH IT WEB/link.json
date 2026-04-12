@@ -26,41 +26,41 @@
     },
     {
       "order": 4,
-      "title": "ADB TOOL",
+      "title": "ADB TOOL ATV TOOL",
       "desc": "Điều khiển Android",
-      "link": "https://example.com/4.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/atvTools_v1.2.0_b34.apk",
       "color": "#38bdf8",
       "btn": "#38bdf8"
     },
     {
       "order": 5,
-      "title": "MIUI TOOL",
-      "desc": "Fix Xiaomi",
-      "link": "https://example.com/5.exe",
+      "title": "AHK BUILD EXE",
+      "desc": "Tạo exe cho PC",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/AutoHotkey_2.0.23_setup.exe",
       "color": "#a855f7",
       "btn": "#a855f7"
     },
     {
       "order": 6,
-      "title": "TV CONTROL",
-      "desc": "Android TV Tool",
-      "link": "https://example.com/6.exe",
+      "title": "BAT TO EXE",
+      "desc": "TẠO TOOL Android TV",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/bat-to-exe-converter.exe",
       "color": "#f97316",
       "btn": "#f97316"
     },
     {
       "order": 7,
-      "title": "APK EDITOR",
+      "title": "LD PLAYER 9",
       "desc": "Chỉnh sửa APK",
-      "link": "https://example.com/7.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
       "color": "#22c55e",
       "btn": "#22c55e"
     },
     {
       "order": 8,
-      "title": "GAME BOOST",
-      "desc": "Tăng FPS game",
-      "link": "https://example.com/8.exe",
+      "title": "TOOL CÀI TIVI XIAOMI",
+      "desc": "Project launcher v1",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/TOOL.KHANH.IT.PROJECT.V3.exe",
       "color": "#e11d48",
       "btn": "#e11d48"
     },
