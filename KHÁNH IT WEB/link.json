@@ -1,0 +1,100 @@
+{
+  "tools": [
+    {
+      "order": 1,
+      "title": "KHO ỨNG DỤNG PC",
+      "desc": "Tải phần mềm máy tính",
+      "link": "https://example.com/1.exe",
+      "color": "#ef4444",
+      "btn": "red"
+    },
+    {
+      "order": 2,
+      "title": "ULTRAVIEW",
+      "desc": "Remote PC",
+      "link": "https://example.com/2.exe",
+      "color": "#facc15",
+      "btn": "#eab308"
+    },
+    {
+      "order": 3,
+      "title": "WINDOWS FIX",
+      "desc": "Sửa lỗi hệ thống",
+      "link": "https://example.com/3.exe",
+      "color": "#00c853",
+      "btn": "#00c853"
+    },
+    {
+      "order": 4,
+      "title": "ADB TOOL",
+      "desc": "Điều khiển Android",
+      "link": "https://example.com/4.exe",
+      "color": "#38bdf8",
+      "btn": "#38bdf8"
+    },
+    {
+      "order": 5,
+      "title": "MIUI TOOL",
+      "desc": "Fix Xiaomi",
+      "link": "https://example.com/5.exe",
+      "color": "#a855f7",
+      "btn": "#a855f7"
+    },
+    {
+      "order": 6,
+      "title": "TV CONTROL",
+      "desc": "Android TV Tool",
+      "link": "https://example.com/6.exe",
+      "color": "#f97316",
+      "btn": "#f97316"
+    },
+    {
+      "order": 7,
+      "title": "APK EDITOR",
+      "desc": "Chỉnh sửa APK",
+      "link": "https://example.com/7.exe",
+      "color": "#22c55e",
+      "btn": "#22c55e"
+    },
+    {
+      "order": 8,
+      "title": "GAME BOOST",
+      "desc": "Tăng FPS game",
+      "link": "https://example.com/8.exe",
+      "color": "#e11d48",
+      "btn": "#e11d48"
+    },
+    {
+      "order": 9,
+      "title": "DRIVER PACK",
+      "desc": "Driver máy tính",
+      "link": "https://example.com/9.exe",
+      "color": "#0ea5e9",
+      "btn": "#0ea5e9"
+    },
+    {
+      "order": 10,
+      "title": "NET FIX",
+      "desc": "Sửa mạng internet",
+      "link": "https://example.com/10.exe",
+      "color": "#14b8a6",
+      "btn": "#14b8a6"
+    },
+    {
+      "order": 11,
+      "title": "OFFICE TOOL",
+      "desc": "Active Office",
+      "link": "https://example.com/11.exe",
+      "color": "#f59e0b",
+      "btn": "#f59e0b"
+    },
+    {
+      "order": 12,
+      "title": "SYSTEM CLEAN",
+      "desc": "Dọn rác máy",
+      "link": "https://example.com/12.exe",
+      "color": "#64748b",
+      "btn": "#64748b"
+    }
+  ]
+}
