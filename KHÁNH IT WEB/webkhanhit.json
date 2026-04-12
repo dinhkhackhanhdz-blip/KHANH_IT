@@ -1,0 +1,54 @@
+{
+  "music": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/KHANH_IT/main/KH%C3%81NH%20IT%20WEB/NHAC.mp3",
+  "logo": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/KHANH_IT/main/KH%C3%81NH%20IT%20WEB/LOGO.jpg",
+  "background": "https://raw.githubusercontent.com/dinhkhackhanhdz-blip/KHANH_IT/main/KH%C3%81NH%20IT%20WEB/NEN.jpg",
+
+  "title": "KHÁNH IT TECH CENTER ULTIMATE",
+  "subtitle": "All-in-one Android Tool System",
+
+  "tools": [
+    {
+      "title": "KHO ỨNG DỤNG PC",
+      "desc": "Nơi tải phần mềm cho máy tính",
+      "btn": "red",
+      "color": "#ef4444",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHO.UNG.DUNG.exe"
+    },
+    {
+      "title": "ULTRAVIEW",
+      "desc": "Remote máy tính 6.6",
+      "btn": "#facc15",
+      "color": "#facc15",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe"
+    },
+    {
+      "title": "WINDOWS & OFFICE",
+      "desc": "Fix lỗi hệ thống",
+      "btn": "#00c853",
+      "color": "#00c853",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHANHIT_CRACK_V2.exe"
+    },
+
+    {
+      "title": "ADB TOOL",
+      "desc": "Điều khiển TV Android",
+      "btn": "#38bdf8",
+      "color": "#38bdf8",
+      "link": "link1.exe"
+    },
+    {
+      "title": "TV TOOL",
+      "desc": "Tool Android TV",
+      "btn": "#a855f7",
+      "color": "#a855f7",
+      "link": "link2.exe"
+    },
+    {
+      "title": "NETWORK FIX",
+      "desc": "Fix mạng Internet",
+      "btn": "#22c55e",
+      "color": "#22c55e",
+      "link": "link3.exe"
+    }
+  ]
+}
