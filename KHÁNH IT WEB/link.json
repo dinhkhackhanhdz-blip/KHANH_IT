@@ -74,17 +74,17 @@
     },
     {
       "order": 10,
-      "title": "NET FIX",
-      "desc": "Sửa mạng internet",
-      "link": "https://example.com/10.exe",
+      "title": "KHO ĐỒ HOẠ",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/kho.do.hoa.1.1.exe",
       "color": "#14b8a6",
       "btn": "#14b8a6"
     },
     {
       "order": 11,
-      "title": "OFFICE TOOL",
-      "desc": "Active Office",
-      "link": "https://example.com/11.exe",
+      "title": "KHO ỨNG DỤNG",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/KHO.UNG.DUNG.PRO.exe",
       "color": "#f59e0b",
       "btn": "#f59e0b"
     },
