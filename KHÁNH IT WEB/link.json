@@ -4,7 +4,7 @@
       "order": 1,
       "title": "KHO ỨNG DỤNG PC",
       "desc": "Tải phần mềm máy tính",
-      "link": "https://example.com/1.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHO.UNG.DUNG.exe",
       "color": "#ef4444",
       "btn": "red"
     },
@@ -12,7 +12,7 @@
       "order": 2,
       "title": "ULTRAVIEW",
       "desc": "Remote PC",
-      "link": "https://example.com/2.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
       "color": "#facc15",
       "btn": "#eab308"
     },
@@ -20,7 +20,7 @@
       "order": 3,
       "title": "WINDOWS FIX",
       "desc": "Sửa lỗi hệ thống",
-      "link": "https://example.com/3.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/KHANHIT_CRACK_V2.exe",
       "color": "#00c853",
       "btn": "#00c853"
     },
