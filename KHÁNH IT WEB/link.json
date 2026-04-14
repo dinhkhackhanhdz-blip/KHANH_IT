@@ -90,6 +90,54 @@
     },
     {
       "order": 12,
+      "title": "ULTRAVIEW",
+      "desc": "Điều khiển từ xa Remote",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
+      "color": "#facc15",
+      "btn": "#eab308"
+    },
+    {
+      "order": 13,
+      "title": "OFFICE 2016-2024",
+      "desc": "Bản trả phí",
+      "link": "https://mybox.vietteltelecom.vn/drive/s/IX4C1HjgPT7qGV6t6jZh8TzrCVjy3D",
+      "color": "#facc15",
+      "btn": "#64748b"
+    },
+    {
+      "order": 14,
+      "title": "LD PLAYER 9",
+      "desc": "Chỉnh sửa APK",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
+      "color": "#22c55e",
+      "btn": "#22c55e"
+    },
+    {
+      "order": 15,
+      "title": "KHO ĐỒ HOẠ",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/kho.do.hoa.1.1.exe",
+      "color": "#14b8a6",
+      "btn": "#14b8a6"
+   },
+    {
+      "order": 16,
+      "title": "ADB TOOL ATV TOOL",
+      "desc": "Điều khiển Android",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/atvTools_v1.2.0_b34.apk",
+      "color": "#38bdf8",
+      "btn": "#38bdf8"
+   },
+    {
+      "order": 17,
+      "title": "LD PLAYER 9",
+      "desc": "Chỉnh sửa APK",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
+      "color": "#22c55e",
+      "btn": "#22c55e"
+    },
+    {
+      "order": 18,
       "title": "OFFICE 2016-2024",
       "desc": "Bản trả phí",
       "link": "https://mybox.vietteltelecom.vn/drive/s/IX4C1HjgPT7qGV6t6jZh8TzrCVjy3D",
