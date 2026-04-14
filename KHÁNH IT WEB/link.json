@@ -90,9 +90,9 @@
     },
     {
       "order": 12,
-      "title": "ULTRAVIEW",
-      "desc": "Điều khiển từ xa Remote",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/UltraViewer_setup_6.6.124.exe",
+      "title": "AUTOCAD 2007",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/AutoCAD2007.zip",
       "color": "#facc15",
       "btn": "#eab308"
     },
@@ -106,41 +106,41 @@
     },
     {
       "order": 14,
-      "title": "LD PLAYER 9",
-      "desc": "Chỉnh sửa APK",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
+      "title": "AUTOCAD 2010",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/AutoCAD2010.zip",
       "color": "#22c55e",
       "btn": "#22c55e"
     },
     {
       "order": 15,
-      "title": "KHO ĐỒ HOẠ",
+      "title": "AUTOCAD 2021",
       "desc": "Bản trả phí",
-      "link": "https://github.com/dinhkhackhanhdz-blip/khanhitstore/releases/download/apk/kho.do.hoa.1.1.exe",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/autocad2021.rar",
       "color": "#14b8a6",
       "btn": "#14b8a6"
    },
     {
       "order": 16,
-      "title": "ADB TOOL ATV TOOL",
-      "desc": "Điều khiển Android",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/atvTools_v1.2.0_b34.apk",
+      "title": "SKETCHUP 2019",
+      "desc": "Bản trả phí",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/Sketchup_2019.rar",
       "color": "#38bdf8",
       "btn": "#38bdf8"
    },
     {
       "order": 17,
-      "title": "LD PLAYER 9",
-      "desc": "Chỉnh sửa APK",
-      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/LDPlayer9_vn_2050_ld.exe",
+      "title": "SKETCHUP 2020",
+      "desc": "Bản trả phí",,
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/Sketchup_2020.rar",
       "color": "#22c55e",
       "btn": "#22c55e"
     },
     {
       "order": 18,
-      "title": "OFFICE 2016-2024",
+      "title": "SKETCHUP 2021",
       "desc": "Bản trả phí",
-      "link": "https://mybox.vietteltelecom.vn/drive/s/IX4C1HjgPT7qGV6t6jZh8TzrCVjy3D",
+      "link": "https://github.com/dinhkhackhanhdz-blip/KHANH_IT/releases/download/khanhpc/Sketchup_2021.rar",
       "color": "#facc15",
       "btn": "#64748b"
     }
